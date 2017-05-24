@@ -7,7 +7,7 @@ mvn package
 ```
 execute the jar package, for example
 ```
-java -cp zookeeper-four-letter-1.0.jar pers.hw7.zk.monitor.zookeeper.FourLetterCommands 192.168.144.110 2181 mntr
+java -cp zookeeper-four-letter-1.1.jar pers.hw7.zk.monitor.zookeeper.FourLetterCommands 192.168.144.110 2181 mntr
 ```
 * 192.168.144.110 :            your zookeeper server ip
 * 2181 :                                your zookeeper server port
